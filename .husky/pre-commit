@@ -1,0 +1,2 @@
+echo "bunx commitlint --edit \$1" > .husky/commit-msg
+bunx biome check . --write
