@@ -1,5 +1,8 @@
 {
-  "branches": ["main", "master"],
+  "branches": [
+    "main",
+    "master"
+  ],
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
@@ -7,13 +10,17 @@
     [
       "@semantic-release/exec",
       {
-        "prepareCmd": "bun run build"
+        "prepareCmd": "npm version ${nextRelease.version} --no-git-tag-version && bun run build"
       }
     ],
     [
       "@semantic-release/git",
       {
-        "assets": ["package.json", "CHANGELOG.md"],
+        "assets": [
+          "package.json",
+          "CHANGELOG.md",
+          "bun.lockb"
+        ],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
     ],
