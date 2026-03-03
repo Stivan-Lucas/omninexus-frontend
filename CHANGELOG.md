@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/Stivan-Lucas/omninexus-frontend/compare/v1.0.0...v1.1.0) (2026-03-03)
+
+
+### Features
+
+* integrate Analytics component into root layout ([205e297](https://github.com/Stivan-Lucas/omninexus-frontend/commit/205e297e65ecf85d47fb3f6f9f430fe4ec8d4581))
+
 # 1.0.0 (2026-02-27)
 
 
