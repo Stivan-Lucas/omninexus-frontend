@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Stivan-Lucas/omninexus-frontend/compare/v1.1.0...v1.1.1) (2026-03-03)
+
+
+### Performance Improvements
+
+* inject Vercel Speed Insights for real-time monitoring ([6c9fc3d](https://github.com/Stivan-Lucas/omninexus-frontend/commit/6c9fc3de82238d204e7ae570aa0903206351c36b))
+
 # [1.1.0](https://github.com/Stivan-Lucas/omninexus-frontend/compare/v1.0.0...v1.1.0) (2026-03-03)
 
 
