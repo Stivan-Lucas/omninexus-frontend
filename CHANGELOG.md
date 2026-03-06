@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/Stivan-Lucas/omninexus-frontend/compare/v1.1.1...v1.2.0) (2026-03-06)
+
+
+### Features
+
+* configura metatags globais para SEO ([f078b43](https://github.com/Stivan-Lucas/omninexus-frontend/commit/f078b43182cc21854cc45130c528b66b592632b9))
+* implementa página de 'em desenvolvimento' ([c1120eb](https://github.com/Stivan-Lucas/omninexus-frontend/commit/c1120ebf58b513618ba2c9df9ef6c1441e0c19f4))
+
 ## [1.1.1](https://github.com/Stivan-Lucas/omninexus-frontend/compare/v1.1.0...v1.1.1) (2026-03-03)
 
 
